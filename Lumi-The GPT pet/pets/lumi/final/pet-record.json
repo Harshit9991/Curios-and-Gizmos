@@ -1,0 +1,10 @@
+{
+  "pet_id": "pet_6adbae8c1b348191bf3c644106d0492c",
+  "name": "Lumi",
+  "description": "A cute anime moon fox with a navy cape, playful paws, and a serene levitating meditation aura.",
+  "is_custom": true,
+  "is_active": true,
+  "sprite_version": 2,
+  "sha256": "728b273a2b2e5203ca53dff928f9b59065e354672d61ed0b6bf186c7b39e28b6",
+  "verification": "create, select, and complete list_pets response confirmed matching stable pet ID and active metadata"
+}

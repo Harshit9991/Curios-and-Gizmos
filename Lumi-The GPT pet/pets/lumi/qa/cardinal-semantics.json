@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "draft_anchors_only": true,
+  "selected_strip": "decoded/look-anchors-approved.png",
+  "directions": [
+    {
+      "expected": "000 up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin raised, nose points above muzzle; lower throat visible; teal eyes aim toward top edge while torso and paws stay seated."
+    },
+    {
+      "expected": "090 screen-right",
+      "observed": "screen-right",
+      "verdict": "pass",
+      "evidence": "Nose at right edge of head, muzzle extends viewer-right and far eye is occluded. Tail remains viewer-left."
+    },
+    {
+      "expected": "180 down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Crown visible, chin tucked, nose lowered immediately above gold clasp; eyes point down toward chest."
+    },
+    {
+      "expected": "270 screen-left",
+      "observed": "screen-left",
+      "verdict": "pass",
+      "evidence": "Nose and muzzle extend viewer-left, eyes gaze left with far eye partly occluded. Tail preserved viewer-left rather than swapping side."
+    }
+  ],
+  "notes": [
+    "First left anchor swapped tail; rejected. Whole-strip targeted repair repeated tail swap; strategy changed to individually generated left anchor using approved right body as template.",
+    "One-off cardinal repair uses generated pixels and bundled chroma removal/fit_to_cell; this is anchor establishment before coherent look rows, not spliced final look cells.",
+    "Minor torso width/position variation across anchors should be constrained in coherent row generation and registration.",
+    "Raw anchors retain source chroma edge contamination; final atlas despill still required."
+  ]
+}

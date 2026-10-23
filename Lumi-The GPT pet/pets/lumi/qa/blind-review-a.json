@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "Horizontal pair 1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle projects left; B raised muzzle projects right, matching eye direction."
+    },
+    {
+      "pair": "Horizontal pair 2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose extends right; B muzzle and eye face left."
+    },
+    {
+      "pair": "Horizontal pair 3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A leftward muzzle and eye; B rightward nose and profile."
+    },
+    {
+      "pair": "Horizontal pair 4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose left of eye; B nose protrudes right past eye."
+    },
+    {
+      "pair": "Horizontal pair 5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A rightward nose and eye; B leftward nose and eye."
+    },
+    {
+      "pair": "Horizontal pair 6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both bow, but A muzzle ends right of face and B muzzle ends left."
+    },
+    {
+      "pair": "Horizontal pair 7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A muzzle projects left; B bowed muzzle projects right and eye aims lower-right."
+    },
+    {
+      "pair": "Vertical pair 1",
+      "A": "down",
+      "B": "up",
+      "reason": "A forehead dominates with chin tucked to chest; B nose lifted above eyes with broad exposed muzzle underside."
+    },
+    {
+      "pair": "Vertical pair 2",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose raised and chin exposed; B low muzzle near collar and eyes point down."
+    },
+    {
+      "pair": "Vertical pair 3",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle tilts upward and chin exposed; B chin tucked and eyes directed down."
+    },
+    {
+      "pair": "Vertical pair 4",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A face nearly level, nose just below eye without strong tilt; B rising muzzle with exposed chin."
+    },
+    {
+      "pair": "Vertical pair 5",
+      "A": "down",
+      "B": "up",
+      "reason": "A low muzzle near collar and eyes angled down; B raised nose and upward eye with exposed chin."
+    },
+    {
+      "pair": "Vertical pair 6",
+      "A": "down",
+      "B": "up",
+      "reason": "A chin close to collar and muzzle slopes down; B lifted nose and exposed chin with upward gaze."
+    },
+    {
+      "pair": "Vertical pair 7",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A nose and gaze rise slightly with exposed chin; B nearly level, nose below eye without pronounced bow or upward chin."
+    }
+  ]
+}

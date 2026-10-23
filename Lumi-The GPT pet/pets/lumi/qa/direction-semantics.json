@@ -1,0 +1,22 @@
+{
+  "reviewer": "parent visual inspection of native-size labeled direction sheet",
+  "directions": [
+    {"label":"000","expected":"up","observed":"up","verdict":"pass","evidence":"Chin underside and throat exposed; muzzle points toward top and both teal eyes aim above the face center. Paws remain seated."},
+    {"label":"022.5","expected":"up-right","observed":"up-right","verdict":"warning","evidence":"Muzzle protrudes screen-right with raised chin and eye aimed above nose line. Similar yaw to 045; positive right and up axes remain readable."},
+    {"label":"045","expected":"up-right","observed":"up-right","verdict":"warning","evidence":"Nose at right edge, throat extended and eye elevated toward upper-right. Very similar neighbor 022.5, but no quadrant reversal."},
+    {"label":"067.5","expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Head is near right profile with nose right; chin and eye still slightly raised compared with horizontal 090."},
+    {"label":"090","expected":"right","observed":"right","verdict":"pass","evidence":"Nose and muzzle project at screen-right edge with one dominant eye and far eye occluded; head level in right profile."},
+    {"label":"112.5","expected":"down-right","observed":"down-right","verdict":"warning","evidence":"Right-pointing muzzle remains strong; chin tucked and forehead tilted forward relative to 090, with gaze slightly lowered. Vertical cue is subtle."},
+    {"label":"135","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Nose extends to screen-right while the bowed crown is prominent and eyes aim below head center toward lower-right."},
+    {"label":"157.5","expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Forehead faces downward, nose close above clasp but shifted screen-right; eyes look down-right. No lower-body rotation."},
+    {"label":"180","expected":"down","observed":"down","verdict":"pass","evidence":"Frontal crown exposed, chin tucked into chest and nose lowered over the clasp. Both eyes look down toward paws."},
+    {"label":"202.5","expected":"down-left","observed":"down-left","verdict":"warning","evidence":"Muzzle moves screen-left from the centered down pose, lowered nose near chest, eye angled down-left. Similar to 225 but correct quadrant."},
+    {"label":"225","expected":"down-left","observed":"down-left","verdict":"warning","evidence":"Nose remains to viewer-left of face center with tucked chin and downward eye gaze; close to 202.5 in elevation."},
+    {"label":"247.5","expected":"down-left","observed":"down-left","verdict":"warning","evidence":"Nose protrudes screen-left; chin remains slightly tucked compared with horizontal 270 and eye looks toward lower-left. Small vertical component."},
+    {"label":"270","expected":"left","observed":"left","verdict":"pass","evidence":"Muzzle and nose clearly extend to the viewer-left edge; eye aims left and far cheek is occluded. Tail stays viewer-left behind torso."},
+    {"label":"292.5","expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Nose remains viewer-left while chin lifts and iris/eyelid angle aims toward upper-left relative to horizontal 270."},
+    {"label":"315","expected":"up-left","observed":"up-left","verdict":"warning","evidence":"Muzzle projects screen-left and eyes gaze upward-left with raised chin. Similar elevation to 292.5; identity and planted paws stable."},
+    {"label":"337.5","expected":"up-left","observed":"up-left","verdict":"warning","evidence":"Leftward nose and raised chin with upward eye position preserve upper-left quadrant. Source has stronger left yaw than ideal near-vertical; the wrap to up is larger than neighboring steps but lower body stays anchored."}
+  ],
+  "continuity_review": "Both cross-row boundaries retain anchored paws/clasp/tail. Natural head yaw makes larger face-motion changes at the wrap to up. Ear gaps are exterior silhouette concavities, not transparent cuts through face or body."
+}

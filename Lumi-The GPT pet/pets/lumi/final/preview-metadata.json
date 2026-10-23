@@ -1,0 +1,17 @@
+{
+  "source": "pets/lumi/final/lumi-spritesheet.png",
+  "timings": "bundled Pets standard durations",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "look_directions": 16,
+  "preview_bg": "#e8edf5"
+}

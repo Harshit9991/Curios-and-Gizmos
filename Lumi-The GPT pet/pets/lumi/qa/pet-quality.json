@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "atlas": "pets/lumi/final/lumi-spritesheet.png",
+  "encoded_bytes": 3428627,
+  "sha256": "728b273a2b2e5203ca53dff928f9b59065e354672d61ed0b6bf186c7b39e28b6",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      201,
+      199,
+      158,
+      194,
+      202
+    ],
+    "airborne_lift_pixels": 44,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      102.0,
+      91.5,
+      92.0,
+      89.0,
+      92.5,
+      91.0,
+      95.0,
+      95.0,
+      89.0,
+      87.5,
+      87.0,
+      87.0,
+      88.0,
+      88.0,
+      88.0,
+      88.0
+    ],
+    "look_widths": [
+      160,
+      129,
+      126,
+      122,
+      127,
+      128,
+      136,
+      134,
+      132,
+      127,
+      128,
+      128,
+      128,
+      128,
+      130,
+      128
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.3114754098360655
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 225 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 315 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=28, y=29)",
+    "022.5 has transparent interior hole rows (y=25, y=26, y=27)",
+    "045 has transparent interior hole rows (y=26)",
+    "135 has transparent interior hole rows (y=29, y=30, y=31, y=32, +2 more)",
+    "180 has transparent interior hole rows (y=41, y=42, y=43, y=44, +4 more)",
+    "000->022.5 center shift is high (10.5px)",
+    "157.5->180 diff is a local outlier (3083 pixels vs neighbor average 1936)",
+    "247.5->270 diff is a local outlier (1848 pixels vs neighbor average 1132)",
+    "337.5->000 diff is a local outlier (4788 pixels vs neighbor average 3190)",
+    "337.5->000 center shift is high (17.8px)",
+    "337.5->000 sprite area ratio is high (1.19)"
+  ]
+}

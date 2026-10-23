@@ -1,0 +1,35 @@
+{
+  "decision": "accept",
+  "blocking_failures": [],
+  "reviewed": ["outputs/lumi/final/look-directions.png", "outputs/lumi/final/lumi-spritesheet.png"],
+  "direction_checks": {
+    "000": "up: raised muzzle and exposed underside of chin",
+    "022.5": "up-right: nose rises toward screen right",
+    "045": "up-right: lifted muzzle toward screen right",
+    "067.5": "up-right: modest upward tilt toward screen right",
+    "090": "right: muzzle projects right with near-level gaze",
+    "112.5": "down-right: nose below eye, turned right",
+    "135": "down-right: lowered muzzle on right",
+    "157.5": "down-right: deeply lowered face still turned right",
+    "180": "down: frontal forehead dominant, nose low between eyes",
+    "202.5": "down-left: lowered muzzle on left",
+    "225": "down-left: lowered muzzle on left",
+    "247.5": "down-left: slight downward tilt and left-pointing muzzle",
+    "270": "left: near-level gaze and left-pointing muzzle",
+    "292.5": "up-left: raised chin and muzzle toward left",
+    "315": "up-left: nose points up-left",
+    "337.5": "up-left: lifted chin toward left"
+  },
+  "body_registration": "The seated torso, tail base, cape, and paws stay in substantially the same orientation and placement across looks. No whole-body rotation or conspicuous paw registration jump is visible.",
+  "attachments": "Heads remain connected to neck/cape; ears remain attached. No broken attachment observed.",
+  "alpha_visual_check": "No transparent cut crossing face or body is visible on the contact sheet or atlas. Dark gaps between ears open to exterior silhouette and are natural concavities.",
+  "transition_review": {
+    "337.5_to_000": "The head changes from three-quarter left to frontal raised chin. This is a larger visible orientation step than nearby left-side transitions, but body registration and neck connection hold; no detached or displaced snap observed.",
+    "157.5_to_180": "The deeply lowered three-quarter right head changes to frontal down. Forehead and ear silhouette shift, while cape and body remain registered. No conspicuous placement snap observed."
+  },
+  "warnings": [
+    "022.5 and045 are very similar;202.5 and225 are also very similar. Principal quadrants remain readable.",
+    "The two frontal vertical cardinal transitions have greater apparent head-yaw change than adjacent intermediate transitions. This is a visible stylistic unevenness, not a hard registration or semantics failure."
+  ],
+  "limits": "Independent visual review of static ordered looks and atlas; no temporal playback measurement was performed."
+}
